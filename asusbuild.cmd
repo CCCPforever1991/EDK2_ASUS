@@ -1,5 +1,6 @@
 @echo off
 
+chcp 65001
 set WORKSPACE=%CD%
 set EDK_TOOLS_PATH=%CD%\BaseTools
 set CONF_PATH=%CD%\Conf
